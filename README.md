@@ -1,2 +1,2 @@
 # java_Hello
-Code from Java Programming Book by ANM Bajlur Rahman
+Code from Java Programming Book by ANM Bazlur Rahman
